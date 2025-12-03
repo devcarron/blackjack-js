@@ -16,4 +16,9 @@ Click on a chip to bet and start playing !
 **Insurance**  
 **Give up**  
 
-Thanks to [Kenney Vleugels](http://www.kenney.nl) for the assets!  
+Thanks to [Kenney Vleugels](http://www.kenney.nl) for the assets!
+
+## Contact
+- [Twitter](https://x.com/blacksky_jose)
+- [Telegram](https://t.me/blacksky_jose)
+- [Discord](https://discord.gg/blacksky_jose)  
