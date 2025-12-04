@@ -19,6 +19,6 @@ Click on a chip to bet and start playing !
 Thanks to [Kenney Vleugels](http://www.kenney.nl) for the assets!
 
 ## Contact
-- [Twitter](https://x.com/blacksky_jose)
-- [Telegram](https://t.me/blacksky_jose)
-- [Discord](https://discord.gg/blacksky_jose)  
+- [Twitter](https://x.com/gamedevcarron)
+- [Telegram](https://t.me/gamedevcarron)
+- [Discord](https://discord.gg/gamedevcarron)  
